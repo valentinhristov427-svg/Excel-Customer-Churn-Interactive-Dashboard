@@ -29,6 +29,8 @@ The dashboard uses slicers and dynamic `FILTER` formulas so a user can explore c
 
 Using the Danger_Score model, the analysis identified 291 customers scoring 9+. This is a prioritised shortlist for targeted retention outreach.
 
+![At-Risk Customers](screenshots/at_risk_customers.png)
+
 ### Presentation
 
 Findings were packaged into a 12-slide stakeholder presentation, first building the case for why churn is happening before revealing who is most at risk and what to do about it.
